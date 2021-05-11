@@ -36,8 +36,11 @@ http://localhost:5000/lastQuestion
 http://localhost:5000/admin
 ```
 _La ruta /usersQuestions Entrega información de las preguntas que seran realizadas a los usuarios_
+
 _La ruta /usersAnswer Obtiene las respuestas de los usuario a las preguntas realizadas_
+
 _La ruta /lastQuestion Hace refencia a la última entrega de respuestas que dio el usuario al cuestionario_
+
 _La ruta /admin Contiene y devuelve la lista de usuarios que existe actualmente_
 
 ### Mejoras
